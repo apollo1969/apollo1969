@@ -4,11 +4,7 @@ header{
 
 .header {
   border: 1px solid;
-}
 
-.headerCatherine img {
-  width: 300px;
-  height: 100%;
 }
 li{display: inline;
 }

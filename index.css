@@ -1,10 +1,51 @@
-header{
-  display:flex;
+body{
+  background-image: "Apollo 11 crew.jpg"
 }
 
-.header {
-  border: 1px solid;
+.logo {
+  width: 300px;
+  height: 300px;
+  background-image: "Apollo 11 crew.jpg"
+}
+h1{font-size: 130px;
+color: #0000FF;}
+header{display: flex;
+justify-content:center;}
+.A11{height: 700px;
+
 
 }
-li{display: inline;
+h2{color:black;
+  font-size: 58px;
+  text-align: center;
 }
+.rond{color: white;
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+
+}
+
+.r1 ul
+{
+  visibility: hidden;
+}
+
+.r1:hover ul
+{
+  visibility: visible;
+}
+
+.rond a{color:white;
+
+}
+.rubriques{display: flex;
+  justify-content:space-around;
+  margin-top: 30px;
+  font-family:verdana;
+}
+h3{text-align: center;}

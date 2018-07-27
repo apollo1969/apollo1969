@@ -1,0 +1,19 @@
+p {
+  color:blue;
+  font-size:15px;
+  font-family:verdana;
+  padding: 0 20px;
+   }
+
+article { display: flex;
+  margin: 30px;
+}
+.section-photos img {
+width: 800px;
+height: 800px;
+object-fit: cover;
+}
+.r1 ul
+{
+  visibility: hidden;
+}
